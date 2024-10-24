@@ -1,4 +1,4 @@
-﻿altair==5.4.1
+altair==5.4.1
 annotated-types==0.7.0
 asgiref==3.8.1
 attrs==24.2.0
@@ -94,7 +94,6 @@ torch==2.4.1
 tornado==6.4.1
 tqdm==4.66.5
 transformers
-
 typer==0.12.5
 typing_extensions==4.12.2
 tzdata==2024.2
